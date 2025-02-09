@@ -1,6 +1,6 @@
 # Course Management System
 
-### [CLICK HERE TO VIEW THE PROTOTYPE] (https://chatgpt.com)
+### [CLICK HERE TO VIEW THE PROTOTYPE](https://chatgpt.com)
 
 ## Overview
 
