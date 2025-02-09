@@ -1,5 +1,7 @@
 # Course Management System
 
+### [CLICK HERE TO VIEW THE PROTOTYPE] (https://chatgpt.com)
+
 ## Overview
 
 The Course Management System is a comprehensive solution for managing courses, student enrollments, grades, and faculty assignments. It streamlines administrative processes, provides role-based access control, and generates automated reports for enhanced decision-making.
